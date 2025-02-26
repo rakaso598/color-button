@@ -19,5 +19,5 @@
 
 ## 배포
 
-- Vercel을 통해 배포되었습니다. [Deploy Page](https://introduce-ra.vercel.app)
+- Vercel을 통해 배포되었습니다. [`Deploy Page`](https://introduce-ra.vercel.app)
 ![250225c](https://github.com/user-attachments/assets/1c068a79-28ec-48aa-96dd-4a0c840679e2)
